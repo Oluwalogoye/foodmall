@@ -1,27 +1,20 @@
 # Foodmall
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.25.
+https://oluwalogoye.github.io/foodmall/
 
-## Development server
+Summary: 
+The Online Mall for Food is a user-friendly e-commerce platform. At its core, the platform leverages the power of object-oriented programming to provide a seamless and efficient shopping experience.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Key features of the Online Mall include:
 
-## Code scaffolding
+- User-Friendly Interface: The website boasts an intuitive and visually appealing user interface that ensures smooth navigation and hassle-free shopping for customers.
+- Shopping Cart and Checkout: The website provides a fully functional shopping cart that allows customers to add items, review their selections, and proceed to a secure checkout process.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+Technologies Used: 
+- Angular 8
+- Redux state managament library
 
-## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+Completion date: 2019
